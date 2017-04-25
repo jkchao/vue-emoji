@@ -7,7 +7,7 @@
 原理其实很简单，雪碧图+背景定位的方式实现。
 
 
-![](https://dn-mhke0kuv.qbox.me/4a5fee2a3e1568542090.gif)
+![](./)
 
 
 源码地址： https://github.com/jkchao/vue-emoji
