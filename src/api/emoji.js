@@ -9,7 +9,7 @@ Object.values(data).forEach(item => {
  *
  * @export
  * @param {string} value
- * @returns
+ * @returns {string}
  */
 
 export function emoji (value) {
