@@ -7,7 +7,7 @@
 原理其实很简单，雪碧图+背景定位的方式实现。
 
 
-![](./)
+![](./gif/demo.gif)
 
 
 源码地址： https://github.com/jkchao/vue-emoji
