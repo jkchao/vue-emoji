@@ -1,6 +1,16 @@
 # vue-emoji
 
-> A Vue.js project
+
+> 最近公司需求做个类似于QQ空间的项目(其实开始的时候我是崩溃的),好在历时一个月的时间,也终于进入测试的阶段。
+> 完成项目过程中，发现并没有一个好用的emoji插件，于是写了一个简单的component，希望对各位有所帮助。
+
+原理其实很简单，雪碧图+背景定位的方式实现。
+
+
+![](https://dn-mhke0kuv.qbox.me/4a5fee2a3e1568542090.gif)
+
+
+源码地址： https://github.com/jkchao/vue-emoji
 
 ## Build Setup
 
@@ -14,17 +24,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
