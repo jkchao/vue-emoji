@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import ElementUI from 'element-ui'
 import './assets/css/iconfont.css'
-import { emoji } from './api/emoji.js'
+import { emoji } from './utils/emoji.js'
 
 Vue.prototype.emoji = emoji
 
