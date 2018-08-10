@@ -11,7 +11,7 @@
 ![](./gif/demo.gif)
 
 
-源码地址： https://github.com/jkchao/vue-emoji
+
 
 ## Build Setup
 
@@ -27,3 +27,9 @@ npm run build
 
 ```
 
+## 在你的 Vue 项目里使用它
+
+- 拷贝静态 emoji 图片，在 `static` 文件夹下；
+- 拷贝必要的 js/scss 文件，`src/assets/scss/emoji-eprite.scss`、`src/data/emoji-data.js` 以及 `src/utils/emoji.js` 文件至你项目下相应的位置；
+- 在你项目的入口文件如 `main.js`，下引入 `src/utils/emoji.js` 并将方法挂至 Vue 原型上，可以参考 `src/main.js`；（当然，你也可以仅在某个组件里使用这个方法）
+- 具体的使用例子可以参考 `src/components/emoji.vue` 。
