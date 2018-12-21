@@ -8,7 +8,7 @@
 
 
 
-![](./gif/demo.gif)
+![](https://github.com/jkchao/vue-emoji/raw/master/static/thumb/demo.gif)
 
 
 
